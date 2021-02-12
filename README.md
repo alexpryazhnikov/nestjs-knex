@@ -1,6 +1,6 @@
 ## Description
 
-[Knex.js](http://knexjs.org) module for [Nest](https://github.com/nestjs/
+[Knex.js](http://knexjs.org) module for [Nest](https://github.com/nestjs/)
 
 ## Features
 
